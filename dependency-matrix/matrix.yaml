@@ -5,3 +5,9 @@ dependencies:
   url: https://github.com/cb-kubecd/bdd-spring-1585124629.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: cb-kubecd
+  repo: bdd-nh-1585125625
+  url: https://github.com/cb-kubecd/bdd-nh-1585125625.git
+  version: ""
+  versionURL: ""
